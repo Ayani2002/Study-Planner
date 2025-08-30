@@ -1,6 +1,7 @@
 # Study-Planner
 Study Planner Web App  A web-based sStudy planner designed to help students organize tasks, track progress, and stay focused during study sessions.
 Study_Planner_App/
+
 │
 ├── index.html           (Home Page - intro to project)
 ├── about.html           (Your About Page content styled)
